@@ -1,3 +1,3 @@
 # First Alert
 
-[**first-alert.iamcpdev.now.sh**](https://first-alert.iamcpdev.now.sh/)
+[**first-alert.now.sh**](https://first-alert.now.sh/)
